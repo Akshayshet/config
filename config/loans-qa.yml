@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Suhail - QA lead"
+    email: "suhail@gmail.com"
+  onCallSupport:
+    -(555) 555-1243
+    -(555) 523-1346
